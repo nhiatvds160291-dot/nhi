@@ -38,38 +38,17 @@ DEVICES = [
     ("DoorLock",    "DoorlockMQTTset.csv",          "sensor_door1"),
     ("DoorLock",    "DoorlockMQTTset.csv",          "sensor_door2"),
     ("DoorLock",    "DoorlockMQTTset.csv",          "sensor_door3"),
-    ("DoorLock",    "DoorlockMQTTset.csv",          "sensor_door4"),
-    ("DoorLock",    "DoorlockMQTTset.csv",          "sensor_door5"),
-    ("DoorLock",    "DoorlockMQTTset.csv",          "sensor_door6"),
-    ("DoorLock",    "DoorlockMQTTset.csv",          "sensor_door7"),
-    ("DoorLock",    "DoorlockMQTTset.csv",          "sensor_door8"),
-    ("DoorLock",    "DoorlockMQTTset.csv",          "sensor_door9"),
-    ("DoorLock",    "DoorlockMQTTset.csv",          "sensor_door10"),
-    ("DoorLock",    "DoorlockMQTTset.csv",          "sensor_door11"),
-    ("DoorLock",    "DoorlockMQTTset.csv",          "sensor_door12"),
-    ("DoorLock",    "DoorlockMQTTset.csv",          "sensor_door13"),
-    ("DoorLock",    "DoorlockMQTTset.csv",          "sensor_door14"),
-    ("DoorLock",    "DoorlockMQTTset.csv",          "sensor_door15"),
-    ("DoorLock",    "DoorlockMQTTset.csv",          "sensor_door16"),
-    ("DoorLock",    "DoorlockMQTTset.csv",          "sensor_door17"),
-    ("DoorLock",    "DoorlockMQTTset.csv",          "sensor_door18"),
-    ("DoorLock",    "DoorlockMQTTset.csv",          "sensor_door19"),
-    ("DoorLock",    "DoorlockMQTTset.csv",          "sensor_door20"),
+    
     ("CO-Gas",      "CO-GasMQTTset.csv",            "sensor_co1"),
     ("CO-Gas",      "CO-GasMQTTset.csv",            "sensor_co2"),
-    ("CO-Gas",      "CO-GasMQTTset.csv",            "sensor_co3"),
-    ("CO-Gas",      "CO-GasMQTTset.csv",            "sensor_co4"),
-    ("CO-Gas",      "CO-GasMQTTset.csv",            "sensor_co5"),
+
     ("AirQuality",  "air-quality_gotham.csv",       "sensor_air1"),
     ("AirQuality",  "air-quality_gotham.csv",       "sensor_air2"),
-    ("AirQuality",  "air-quality_gotham.csv",       "sensor_air3"),
-    ("AirQuality",  "air-quality_gotham.csv",       "sensor_air4"),
-    ("AirQuality",  "air-quality_gotham.csv",       "sensor_air5"),
+
     ("Smoke",       "SmokeMQTTset.csv",             "sensor_smoke1"),
-    ("Smoke",       "SmokeMQTTset.csv",             "sensor_smoke2"),
-    ("Smoke",       "SmokeMQTTset.csv",             "sensor_smoke3"),
+
     ("FlameSensor", "Edge-IIoTset_flame_sensor.csv","sensor_flame1"),
-    ("FlameSensor", "Edge-IIoTset_flame_sensor.csv","sensor_flame2"),  
+
     ("Camera",      "MotionMQTTset.csv",            "sensor_motion"),
 ]
 
